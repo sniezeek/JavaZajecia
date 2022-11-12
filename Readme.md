@@ -21,7 +21,7 @@ człowiek jest stworzony za pomocą klasy
 </br>
 </br>
 </br>
-opcje do wyboru w programie:
+opcje do wyboru w programie:</br>
 1.wyjscie
 </br>
 2.walka-program losowo zadaje nam obrażenia od 1-100 i dodaje exp jeśli wygraliśmy jeśli nie to pisze ze zgineliśmy
