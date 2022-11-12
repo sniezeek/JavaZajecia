@@ -11,7 +11,7 @@ Działania:
 <li>Dzielenie modulo (z resztą)</li>
 </ul>
 
-<h3>ŻYCIEIWALKA</h3>
+<h3>ŻYCIE i WALKA</h3>
 gra życie i walka
 człowiek jest stworzony za pomocą klasy 
 </br>
