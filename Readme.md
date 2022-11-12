@@ -10,10 +10,8 @@ Działania:
 <li>Dzielenie</li>
 <li>Dzielenie modulo (z resztą)</li>
 </ul>
-<b>
-Projekt nazwa ŻYCIEIWALKA na githubie
-</b>
-	<br>
+
+<h3>ŻYCIEIWALKA</h3>
 gra życie i walka
 człowiek jest stworzony za pomocą klasy 
 </br>
@@ -38,7 +36,7 @@ opcje do wyboru w programie:
 </br>
 </br>
 
-1. Klasa zajecia1.Program i Człowiek
+1. Klasa Program i Człowiek
 2. Konstruktor klasy Człowiek (pierwsze wartości)
 3. Wyświetlenie statystyk
 4. Pętla Gry (while z 4 opcjami wyboru co mozemy zrobic)
