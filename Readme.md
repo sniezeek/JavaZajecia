@@ -50,5 +50,7 @@ i dodajemy w tej samej funkcji exp (stała wartość)
 <h1>Librus</h1>
 <p>Program ma być w pełni działającym dziennikiem. Trzy klasy: Main,Dziennik,Uczeń.</p>
 <h4>Uczeń</h4>
+<h4>Dziennik</h4>
+<h4>Main</h4>
 
 
