@@ -55,5 +55,10 @@ i dodajemy w tej samej funkcji exp (stała wartość)
 <p>Lista Uczniów. Metody: Dodawanie Ucznia, Usuwanie ucznia, Liczenie średniej ocen dla całej klasy, wyświetlanie listy uczniów.</p>
 <h4>MAIN</h4>
 <p>pętla while z pełną obsługą dziennika(dodawanie i usuwanie ucznia, wyświetlanie wszystkich uczniów wraz z indeksami, wyświetlanie wszystkich ocen danego ucznia, dodawanie i usuwanie oceny odpowiedniemu uczniowi, wyświetlanie średniej ucznia, wyświetlanie średniej wszystkich uczniów</p>
-
-
+Metody Listy
+<ul>
+	<li>.add()</li>
+	<li>.get()</li>
+	<li>.size()</li>
+	<li>.remove()</li>
+</ul>
