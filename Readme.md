@@ -45,3 +45,10 @@ opcje do wyboru w programie:</br>
 odejmujemy za pomocą funkcji walka obrazenia wylosowane od życia
 i dodajemy w tej samej funkcji exp (stała wartość)
 7. if że jeśli mamy mniej niż 0 życia to przegraliśmy
+
+
+<h3>Librus</h3>
+<p>Program ma być w pełni działającym dziennikiem. Trzy klasy: Main,Dziennik,Uczeń.</p>
+<h1>Uczeń</h1>
+
+
