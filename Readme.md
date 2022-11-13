@@ -53,7 +53,7 @@ i dodajemy w tej samej funkcji exp (stała wartość)
 <p>Kilka list ocen które zdefiniowane są jako prywatne, imię i nazwisko. Metody:dodanie oceny do każdej z list, wyświetlenie wszystkich ocen, usunięcie oceny zgodnie z indeksem i przedmiotem, liczenie średniej przedmiotu i wszystkich przedmiotów.</p>
 <h4>Dziennik</h4>
 <p>Lista Uczniów. Metody: Dodawanie Ucznia, Usuwanie ucznia, Liczenie średniej ocen dla całej klasy, wyświetlanie listy uczniów.</p>
-<h4>Main</h4>
+<h4>MAIN</h4>
 <p>pętla while z pełną obsługą dziennika(dodawanie i usuwanie ucznia, wyświetlanie wszystkich uczniów wraz z indeksami, wyświetlanie wszystkich ocen danego ucznia, dodawanie i usuwanie oceny odpowiedniemu uczniowi, wyświetlanie średniej ucznia, wyświetlanie średniej wszystkich uczniów</p>
 
 
