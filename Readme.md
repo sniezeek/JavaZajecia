@@ -1,6 +1,6 @@
 <p>ksniezek@protonmail.com</p>
 <p>535215650</p>
-<h3>KALKULATOR</h3>
+<h1>KALKULATOR</h1>
 <p>Program ma nas pytać o działanie, następnie po podaniu prawidłowego działania ma poprosić o dwie liczby i wyświetlić wynik działania. Jeśli podamy złe działanie program ma nas o tym poinformować. Jeśli wciśniemy przy wyborze działania "x" program ma się wyłączyć</p>
 Działania:
 <ul>
@@ -11,7 +11,7 @@ Działania:
 <li>Dzielenie modulo (z resztą)</li>
 </ul>
 
-<h3>ŻYCIE i WALKA</h3>
+<h1>ŻYCIE i WALKA</h1>
 gra życie i walka
 człowiek jest stworzony za pomocą klasy 
 </br>
@@ -47,8 +47,8 @@ i dodajemy w tej samej funkcji exp (stała wartość)
 7. if że jeśli mamy mniej niż 0 życia to przegraliśmy
 
 
-<h3>Librus</h3>
+<h1>Librus</h1>
 <p>Program ma być w pełni działającym dziennikiem. Trzy klasy: Main,Dziennik,Uczeń.</p>
-<h1>Uczeń</h1>
+<h4>Uczeń</h4>
 
 
